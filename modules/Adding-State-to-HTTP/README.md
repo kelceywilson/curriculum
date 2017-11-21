@@ -30,7 +30,7 @@ cookie based authentication
 
 ### Watch
 
-- [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw&list=UUJI9gByFSXE1ABDRcLQjWgQ)
+- [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=atehx2mR1Lk)
 
 ### Read
 
