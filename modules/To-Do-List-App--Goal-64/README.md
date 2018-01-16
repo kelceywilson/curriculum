@@ -67,7 +67,7 @@ When working on this goal, you'll encounter questions like:
 - Users can check items off as completed.
 - Users can edit the text on existing to do list items.
 - UI renders to do items differently when they are completed (using a checkbox or some other indicator).
-- When an error occurs, the user is notified with modal message.\*
+- When an error occurs, the user is notified with modal message. (A quick and easy way to do this is to use the `alert()` function.)
 - Backend uses Node.js and [Express][npm-express].
 - App persists to do list items in a database.
 
@@ -79,10 +79,7 @@ There are thorough tests for all functionality involved in interacting with the 
 - There are tests for editing to do list items.
 - All tests are passing.
 
-\* A quick and easy way to do this is to use the `alert()` function.
-
 ### Stretch
-
 - App is deployed on Heroku.
 - Users can rearrange to do list items.
 - Users can create multiple to-do lists.
