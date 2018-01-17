@@ -5,7 +5,7 @@
 - Can build a RESTful API using Express
 - Can build a SQL schema for a given problem definition
 - Can use the fetch API to make HTTP requests
-- Can write end-to-end tests for an existing HTTP API using the chai-http library
+- Can write end-to-end tests for an existing HTTP API using the [chai-http][] library
 
 ## Challenge Rubric
 
@@ -61,7 +61,7 @@ _Note: `PUT/PATCH` and `DELETE` requests can be a little difficult to work with,
 - Variables, functions, files, etc. have appropriate and meaningful names.
 - Functions are small and serve a single purpose
 - Code uses a linter and there are no linting errors.
-- Code is well tested and all tests are passing.
+- Code is end-to-end tested with [chai-http][] and all tests are passing.
 - The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 #### Stories
@@ -119,3 +119,4 @@ Tools and libraries
 [ejs]: http://www.embeddedjs.com/
 [bootstrap]: http://getbootstrap.com/
 [pure-css]: https://purecss.io/
+[chai-http]: http://chaijs.com/plugins/chai-http/
